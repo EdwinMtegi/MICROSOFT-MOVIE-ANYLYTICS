@@ -11,22 +11,28 @@ The initial step involves cleaning the data that is; ensuring that the data is u
 ## Data Visualization
 The project analyzes different aspects of cinematic universe, that is; distribution of movie production over the years, ditribution of movie genre, genre with highest average rating, movie studio with the highest grossing income and top movies with highest profits. 
 
-![Alt text](image-4.png)
+![image-3](https://github.com/EdwinMtegi/MICROSOFT-MOVIE-ANYLYTICS/assets/151729172/16934cd6-61be-4ac8-b195-6d1d6744b501)
 The chart shows that the most produced movie genre was documentary while the least as western genre.
 
-![Alt text](image-5.png)
+![image-5](https://github.com/EdwinMtegi/MICROSOFT-MOVIE-ANYLYTICS/assets/151729172/800c476f-d021-4d79-90a6-ae23b9d8fd76)
+
 This plot displays the relationship between genres and movie ratings. It shows that group mix, comedy documentary and fantasy had the highest average rating, while drama fantasy and war having the lowest average rating. However, there is a stiff competetion between the genres in that most have the same ratings.
 
-![Alt text](image-6.png)
+
+
+ ![image-6](https://github.com/EdwinMtegi/MICROSOFT-MOVIE-ANYLYTICS/assets/151729172/083e3a63-0937-4dfb-a800-ca1a765317fa)
 This plot visualizes the top 10 movies by total income. There is a stiff competition between the top 10 movies with the highest having $1.5 billion dollars. It is keen to note that the top movies are majorly of adventure and fantasy genre.
 
-![Alt text](image-7.png)
+
+ ![image-7](https://github.com/EdwinMtegi/MICROSOFT-MOVIE-ANYLYTICS/assets/151729172/b996cce7-debf-44c3-829d-02615a526608)
 This plot shows the relationship between movie studios and gross income. P/DW studio ranked top, while PW and Uni followed. Among the top 50 studios includes Sony, Fox, WB and Hc 
 
-![Alt text](image-8.png)
+![image-8](https://github.com/EdwinMtegi/MICROSOFT-MOVIE-ANYLYTICS/assets/151729172/60580d3e-e81b-44e5-b846-890e5bd0dd3f)
+
 This plot displays the correlation between movies and total profits. Avatar movie ranked on top.
 
-![Alt text](image-9.png)
+![image-9](https://github.com/EdwinMtegi/MICROSOFT-MOVIE-ANYLYTICS/assets/151729172/aefce11f-b8de-4277-a6ea-f534c7008ffc)
+
 This plot shows the distribution of movie production over a number of years. It shows that movie production increased gradually from 2010 t0 2016 and experienced a sharp decline to 2020.2016 had the highest number of movies while 2020 had the lowest number of movies. It is however wise to note that the sharp decline might have been as a result of unforeseen factors, i.e Corona pandemic.
 
 **BUSINESS RECOMMENDATIONS**
