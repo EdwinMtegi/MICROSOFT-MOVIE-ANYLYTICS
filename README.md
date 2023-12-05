@@ -11,5 +11,45 @@ The initial step involves cleaning the data that is; ensuring that the data is u
 ## Data Visualization
 The project analyzes different aspects of cinematic universe, that is; distribution of movie production over the years, ditribution of movie genre, genre with highest average rating, movie studio with the highest grossing income and top movies with highest profits. 
 
-![Alt text](image-3.png)
+![Alt text](image-4.png)
 The chart shows that the most produced movie genre was documentary while the least as western genre.
+
+![Alt text](image-5.png)
+This plot displays the relationship between genres and movie ratings. It shows that group mix, comedy documentary and fantasy had the highest average rating, while drama fantasy and war having the lowest average rating. However, there is a stiff competetion between the genres in that most have the same ratings.
+
+![Alt text](image-6.png)
+This plot visualizes the top 10 movies by total income. There is a stiff competition between the top 10 movies with the highest having $1.5 billion dollars. It is keen to note that the top movies are majorly of adventure and fantasy genre.
+
+![Alt text](image-7.png)
+This plot shows the relationship between movie studios and gross income. P/DW studio ranked top, while PW and Uni followed. Among the top 50 studios includes Sony, Fox, WB and Hc 
+
+![Alt text](image-8.png)
+This plot displays the correlation between movies and total profits. Avatar movie ranked on top.
+
+![Alt text](image-9.png)
+This plot shows the distribution of movie production over a number of years. It shows that movie production increased gradually from 2010 t0 2016 and experienced a sharp decline to 2020.2016 had the highest number of movies while 2020 had the lowest number of movies. It is however wise to note that the sharp decline might have been as a result of unforeseen factors, i.e Corona pandemic.
+
+**BUSINESS RECOMMENDATIONS**
+
+**Genre Selection for New Movies:
+
+Microsoft should consider focusing on genres that have shown popularity and resilience, such as documentary and fantasy. Movies that entails a mix of action,adventure and fantasy have proved to be the highest grossing films. However, they should also consider exploring opportunities in genres that are less saturated, like westerns, so as to capture a niche audience.
+
+**Optimizing Movie Runtimes:
+
+The average and median runtime findings suggest that audiences generally prefer movies with a runtime around 86-87 minutes. Microsoft should aim to produce movies within this range so as to align with viewer preferences and also maximize engagement
+
+**Content Quality and Ratings:
+
+Microsoft should prioritize in creating high-quality content, as shown in the average movie ratings. This can be achieved focusing on engaging storylines, skilled production, and effective marketing strategies.
+
+**Strategic Partnerships and Franchise Development:
+
+The success of movie franchise like "Marvel's Avengers" and "Avatar" suggests that  partnerships and potential franchise opportunities can significantly impact box office performance and profits. Microsoft should consider collaborations with established franchises or invest in developing its own franchises to drive long-term success. Microsoft should also consider patnership with movie studios like BV, WB and P/WD which had the highest movie gross income.
+
+**Profit Maximization Strategies:
+
+Microsoft should study the success factors behind high-grossing movies like "Avatar" and incorporate those elements into its own productions. This may include investing in top-tier talent actors, innovative storytelling, and effective marketing campaigns to maximize profits.
+
+**CONCLUSION**
+These recommendations aim to guide Microsoft in making informed decisions based on the insights derived from the exploratory data analysis. It's essential for Microsoft to adapt these recommendations to their specific goals, resources, and market dynamics. Additionally, monitoring and adaptating industry trends is very crucial for long-term success in the movie production business.
