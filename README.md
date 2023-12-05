@@ -1,4 +1,4 @@
-# MICROSOFT-MOVIE-ANYLYTICS
+# MICROSOFT-MOVIE-ANALYTICS
 ## OVERVIEW                    
 Microsoft, a tech giant that wants to venture into the entertainment industry, needs strategic moves to establish a new movie profitable studio. To achive the success  of film production, Microsoft aims to leverage the power of exploratory data analysis. The main goal of this project is to explore key insights into the factors influencing the success of movies at the box office. By comprehensively understanding the current cinematic landscape, the head of Microsoft's new movie studio can make well-informed decisions about the types of films to produce, enhancing the chances of a successful entry into the movie production domain.
 ## Business Understanding
